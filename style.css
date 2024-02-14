@@ -416,6 +416,9 @@ span{
     .portfolio-container{
         grid-template-columns: 1fr;
     }
+    .header{
+        width: 85%;
+    }
 }
 @media( max-width: 450px){
     html{
